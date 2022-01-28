@@ -19,7 +19,9 @@ $
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1643369356,,"@$"
+|2,1,1643370323,,"@$"
+??\a
+|2,1,1643370290,63,"\\a"
 
 # Expression History (newest to oldest):
 
@@ -30,28 +32,114 @@ $
 # Registers:
 
 # File marks:
-'0  8  0  ~/harish/.git
-|4,48,8,0,1643369379,"~/harish/.git"
-'1  4  0  ~/harish/village
-|4,49,4,0,1643369123,"~/harish/village"
-'2  3  25  ~/harish/class
-|4,50,3,25,1643369086,"~/harish/class"
-'3  5  1  ~/harish/age
-|4,51,5,1,1643369057,"~/harish/age"
-'4  1  5  ~/auto/passenger
-|4,52,1,5,1643303850,"~/auto/passenger"
-'5  1  5  ~/auto/driver
-|4,53,1,5,1643303814,"~/auto/driver"
-'6  8  0  ~/van
-|4,54,8,0,1643301583,"~/van"
+'0  8  0  ~/harish
+|4,48,8,0,1643370324,"~/harish"
+'1  1  0  ~/van/van
+|4,49,1,0,1643369538,"~/van/van"
+'2  1  0  ~/van/van
+|4,50,1,0,1643369521,"~/van/van"
+'3  8  0  ~/harish/.git
+|4,51,8,0,1643369379,"~/harish/.git"
+'4  4  0  ~/harish/village
+|4,52,4,0,1643369123,"~/harish/village"
+'5  3  25  ~/harish/class
+|4,53,3,25,1643369086,"~/harish/class"
+'6  5  1  ~/harish/age
+|4,54,5,1,1643369057,"~/harish/age"
+'7  1  5  ~/auto/passenger
+|4,55,1,5,1643303850,"~/auto/passenger"
+'8  1  5  ~/auto/driver
+|4,56,1,5,1643303814,"~/auto/driver"
+'9  8  0  ~/van
+|4,57,8,0,1643301583,"~/van"
 
 # Jumplist (newest first):
+-'  8  0  ~/harish
+|4,39,8,0,1643370324,"~/harish"
+-'  1  0  ~/van/van
+|4,39,1,0,1643369538,"~/van/van"
+-'  1  0  ~/van/van
+|4,39,1,0,1643369538,"~/van/van"
+-'  1  0  ~/van/van
+|4,39,1,0,1643369521,"~/van/van"
+-'  1  0  ~/van/van
+|4,39,1,0,1643369521,"~/van/van"
+-'  8  0  ~/harish/.git
+|4,39,8,0,1643369379,"~/harish/.git"
+-'  8  0  ~/harish/.git
+|4,39,8,0,1643369379,"~/harish/.git"
+-'  8  0  ~/harish/.git
+|4,39,8,0,1643369379,"~/harish/.git"
+-'  8  0  ~/harish/.git
+|4,39,8,0,1643369379,"~/harish/.git"
+-'  8  0  ~/harish/.git
+|4,39,8,0,1643369379,"~/harish/.git"
+-'  8  0  ~/harish/.git
+|4,39,8,0,1643369379,"~/harish/.git"
+-'  8  0  ~/harish/.git
+|4,39,8,0,1643369379,"~/harish/.git"
 -'  8  0  ~/harish/.git
 |4,39,8,0,1643369379,"~/harish/.git"
 -'  4  0  ~/harish/village
 |4,39,4,0,1643369123,"~/harish/village"
 -'  4  0  ~/harish/village
 |4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  4  0  ~/harish/village
+|4,39,4,0,1643369123,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
+-'  1  0  ~/harish/village
+|4,39,1,0,1643369094,"~/harish/village"
 -'  1  0  ~/harish/village
 |4,39,1,0,1643369094,"~/harish/village"
 -'  1  0  ~/harish/village
@@ -64,6 +152,62 @@ $
 |4,39,3,25,1643369086,"~/harish/class"
 -'  3  25  ~/harish/class
 |4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
+-'  3  25  ~/harish/class
+|4,39,3,25,1643369086,"~/harish/class"
 -'  1  0  ~/harish/class
 |4,39,1,0,1643369064,"~/harish/class"
 -'  1  0  ~/harish/class
@@ -72,180 +216,48 @@ $
 |4,39,1,0,1643369064,"~/harish/class"
 -'  1  0  ~/harish/class
 |4,39,1,0,1643369064,"~/harish/class"
--'  5  1  ~/harish/age
-|4,39,5,1,1643369057,"~/harish/age"
--'  5  1  ~/harish/age
-|4,39,5,1,1643369057,"~/harish/age"
--'  5  1  ~/harish/age
-|4,39,5,1,1643369057,"~/harish/age"
--'  5  1  ~/harish/age
-|4,39,5,1,1643369057,"~/harish/age"
--'  5  1  ~/harish/age
-|4,39,5,1,1643369057,"~/harish/age"
--'  5  1  ~/harish/age
-|4,39,5,1,1643369057,"~/harish/age"
--'  5  1  ~/harish/age
-|4,39,5,1,1643369057,"~/harish/age"
--'  5  1  ~/harish/age
-|4,39,5,1,1643369057,"~/harish/age"
--'  1  0  ~/harish/age
-|4,39,1,0,1643369040,"~/harish/age"
--'  1  0  ~/harish/age
-|4,39,1,0,1643369040,"~/harish/age"
--'  1  0  ~/harish/age
-|4,39,1,0,1643369040,"~/harish/age"
--'  1  0  ~/harish/age
-|4,39,1,0,1643369040,"~/harish/age"
--'  1  0  ~/harish/age
-|4,39,1,0,1643369040,"~/harish/age"
--'  1  0  ~/harish/age
-|4,39,1,0,1643369040,"~/harish/age"
--'  1  0  ~/harish/age
-|4,39,1,0,1643369040,"~/harish/age"
--'  1  0  ~/harish/age
-|4,39,1,0,1643369040,"~/harish/age"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/passenger
-|4,39,1,5,1643303850,"~/auto/passenger"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  1  5  ~/auto/driver
-|4,39,1,5,1643303814,"~/auto/driver"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
--'  8  0  ~/van
-|4,39,8,0,1643301583,"~/van"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/harish/class
+|4,39,1,0,1643369064,"~/harish/class"
 
 # History of marks within files (newest to oldest):
+
+> ~/van/van
+	*	1643369535	0
+	"	1	0
 
 > ~/harish/village
 	*	1643369116	0
