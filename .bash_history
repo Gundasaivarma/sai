@@ -443,3 +443,67 @@ java --version
 sudo - su
 sudo-su
 sudo su -
+ls
+owd
+pwd
+d
+pwd
+clear
+mkdir googly
+cd googly
+touch five ten
+ls -n
+ls -n five fifteen
+clear
+ls
+ln -v ten fifteen
+ln -v five 20
+cat>five
+ls
+cat 20
+cat five
+cat ten
+cat fifteen
+cd ..
+ls
+ln -v googly mydir3
+ls -l
+chmod 777 googly harish mydir2 mydir3 mydir4 sir
+ls -l
+clear
+ls
+cd harish
+ls
+ls -l
+ln -v age class
+touch education
+ls
+ln -v age education
+cat education
+cd ~
+clear
+pwd
+ls
+ls -l
+chmod 555 googly harish
+ls -l
+chmod u-x mydir1 mydir3
+ls -l
+chmod u-x mydir4 mydir3
+ls -l
+pwd
+chmod 777 /root
+ls -l
+clear
+3.134.84.158
+poweroff
+sudo su ec2-user
+cdd..
+cd ..
+pwd
+cd ~
+cd/home/ec2-user
+sud home/ec2-user
+sudo home/ec2-user
+sudo su home/ec2-user
+sudo su ec2-user
