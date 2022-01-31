@@ -507,3 +507,41 @@ sud home/ec2-user
 sudo home/ec2-user
 sudo su home/ec2-user
 sudo su ec2-user
+clear
+git --version
+yum install git - y
+ls
+git init
+git status
+git add .
+git status
+git commit -m "empty created"
+git config
+globel user my class
+git config globel uder
+git config globel user
+git config
+ls
+git ls files
+git --help
+git help -a
+git help -g
+git log
+clear
+yum install git - y
+git init
+ls
+git status
+ls
+git status
+git add .
+git status
+git commit -m "empty"
+git status
+git remote add origin https://github.com/Gundasaivarma/sai.git
+git remote -v
+git push origin master
+ls
+git master
+clear
+poweroff
