@@ -35,34 +35,68 @@ $
 |3,1,36,0,1,0,1643809465,"n"
 
 # File marks:
-'0  1  0  ~/webapps/F1
-|4,48,1,0,1645014524,"~/webapps/F1"
-'1  5  0  ~/index.html
-|4,49,5,0,1644896120,"~/index.html"
-'2  80  0  /etc/profile
-|4,50,80,0,1644331676,"/etc/profile"
-'3  75  8  /etc/profile
-|4,51,75,8,1644305631,"/etc/profile"
-'4  75  8  /etc/profile
-|4,52,75,8,1644305631,"/etc/profile"
-'5  75  6  /etc/profile
-|4,53,75,6,1644304270,"/etc/profile"
-'6  75  6  /etc/profile
-|4,54,75,6,1644304270,"/etc/profile"
-'7  2  0  ~/film/f3
-|4,55,2,0,1643810646,"~/film/f3"
-'8  1  27  ~/film/f2
-|4,56,1,27,1643810630,"~/film/f2"
-'9  2  0  ~/film/f1
-|4,57,2,0,1643810607,"~/film/f1"
+'0  1  9  ~/gitignore
+|4,48,1,9,1645016140,"~/gitignore"
+'1  1  0  ~/gitignore
+|4,49,1,0,1645016095,"~/gitignore"
+'2  1  0  ~/webapps/F1
+|4,50,1,0,1645014524,"~/webapps/F1"
+'3  5  0  ~/index.html
+|4,51,5,0,1644896120,"~/index.html"
+'4  80  0  /etc/profile
+|4,52,80,0,1644331676,"/etc/profile"
+'5  75  8  /etc/profile
+|4,53,75,8,1644305631,"/etc/profile"
+'6  75  8  /etc/profile
+|4,54,75,8,1644305631,"/etc/profile"
+'7  75  6  /etc/profile
+|4,55,75,6,1644304270,"/etc/profile"
+'8  75  6  /etc/profile
+|4,56,75,6,1644304270,"/etc/profile"
+'9  2  0  ~/film/f3
+|4,57,2,0,1643810646,"~/film/f3"
 
 # Jumplist (newest first):
+-'  1  9  ~/gitignore
+|4,39,1,9,1645016140,"~/gitignore"
+-'  1  0  ~/gitignore
+|4,39,1,0,1645016095,"~/gitignore"
+-'  1  0  ~/webapps/F1
+|4,39,1,0,1645014524,"~/webapps/F1"
+-'  1  0  ~/webapps/F1
+|4,39,1,0,1645014524,"~/webapps/F1"
+-'  1  0  ~/webapps/F1
+|4,39,1,0,1645014524,"~/webapps/F1"
 -'  1  0  ~/webapps/F1
 |4,39,1,0,1645014524,"~/webapps/F1"
 -'  5  0  ~/index.html
 |4,39,5,0,1644896120,"~/index.html"
 -'  5  0  ~/index.html
 |4,39,5,0,1644896120,"~/index.html"
+-'  5  0  ~/index.html
+|4,39,5,0,1644896120,"~/index.html"
+-'  5  0  ~/index.html
+|4,39,5,0,1644896120,"~/index.html"
+-'  5  0  ~/index.html
+|4,39,5,0,1644896120,"~/index.html"
+-'  5  0  ~/index.html
+|4,39,5,0,1644896120,"~/index.html"
+-'  5  0  ~/index.html
+|4,39,5,0,1644896120,"~/index.html"
+-'  5  0  ~/index.html
+|4,39,5,0,1644896120,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1644896063,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1644896063,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1644896063,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1644896063,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1644896063,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1644896063,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1644896063,"~/index.html"
 -'  1  0  ~/index.html
@@ -75,6 +109,54 @@ $
 |4,39,80,0,1644331676,"/etc/profile"
 -'  80  0  /etc/profile
 |4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
 -'  75  8  /etc/profile
 |4,39,75,8,1644330988,"/etc/profile"
 -'  75  8  /etc/profile
@@ -91,6 +173,54 @@ $
 |4,39,75,8,1644305631,"/etc/profile"
 -'  75  8  /etc/profile
 |4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
 -'  75  6  /etc/profile
 |4,39,75,6,1644304270,"/etc/profile"
 -'  75  6  /etc/profile
@@ -123,142 +253,19 @@ $
 |4,39,1,0,1644304242,"/etc/profile"
 -'  1  0  /etc/profile
 |4,39,1,0,1644304242,"/etc/profile"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  2  0  ~/film/f3
-|4,39,2,0,1643810646,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  0  ~/film/f3
-|4,39,1,0,1643810634,"~/film/f3"
--'  1  27  ~/film/f2
-|4,39,1,27,1643810630,"~/film/f2"
--'  1  27  ~/film/f2
-|4,39,1,27,1643810630,"~/film/f2"
--'  1  27  ~/film/f2
-|4,39,1,27,1643810630,"~/film/f2"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
 
 # History of marks within files (newest to oldest):
+
+> ~/gitignore
+	*	1645016139	0
+	"	1	9
+	^	1	10
+	.	1	10
+	+	1	10
 
 > ~/webapps/F1
 	*	1645014521	0
@@ -387,13 +394,6 @@ $
 
 > ~/auto/passenger
 	*	1643303849	0
-	"	1	5
-	^	1	6
-	.	1	5
-	+	1	5
-
-> ~/auto/driver
-	*	1643303812	0
 	"	1	5
 	^	1	6
 	.	1	5
