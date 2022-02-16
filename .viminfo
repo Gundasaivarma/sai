@@ -15,11 +15,11 @@ $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1643369123,,"wq!"
+|2,0,1644896120,,"wq!"
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1643370323,,"@$"
+|2,1,1643683055,,"@$"
 ??\a
 |2,1,1643370290,63,"\\a"
 
@@ -30,230 +30,342 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	n
+|3,1,36,0,1,0,1643809465,"n"
 
 # File marks:
-'0  8  0  ~/harish
-|4,48,8,0,1643370324,"~/harish"
-'1  1  0  ~/van/van
-|4,49,1,0,1643369538,"~/van/van"
-'2  1  0  ~/van/van
-|4,50,1,0,1643369521,"~/van/van"
-'3  8  0  ~/harish/.git
-|4,51,8,0,1643369379,"~/harish/.git"
-'4  4  0  ~/harish/village
-|4,52,4,0,1643369123,"~/harish/village"
-'5  3  25  ~/harish/class
-|4,53,3,25,1643369086,"~/harish/class"
-'6  5  1  ~/harish/age
-|4,54,5,1,1643369057,"~/harish/age"
-'7  1  5  ~/auto/passenger
-|4,55,1,5,1643303850,"~/auto/passenger"
-'8  1  5  ~/auto/driver
-|4,56,1,5,1643303814,"~/auto/driver"
-'9  8  0  ~/van
-|4,57,8,0,1643301583,"~/van"
+'0  1  0  ~/webapps/F1
+|4,48,1,0,1645014524,"~/webapps/F1"
+'1  5  0  ~/index.html
+|4,49,5,0,1644896120,"~/index.html"
+'2  80  0  /etc/profile
+|4,50,80,0,1644331676,"/etc/profile"
+'3  75  8  /etc/profile
+|4,51,75,8,1644305631,"/etc/profile"
+'4  75  8  /etc/profile
+|4,52,75,8,1644305631,"/etc/profile"
+'5  75  6  /etc/profile
+|4,53,75,6,1644304270,"/etc/profile"
+'6  75  6  /etc/profile
+|4,54,75,6,1644304270,"/etc/profile"
+'7  2  0  ~/film/f3
+|4,55,2,0,1643810646,"~/film/f3"
+'8  1  27  ~/film/f2
+|4,56,1,27,1643810630,"~/film/f2"
+'9  2  0  ~/film/f1
+|4,57,2,0,1643810607,"~/film/f1"
 
 # Jumplist (newest first):
--'  8  0  ~/harish
-|4,39,8,0,1643370324,"~/harish"
--'  1  0  ~/van/van
-|4,39,1,0,1643369538,"~/van/van"
--'  1  0  ~/van/van
-|4,39,1,0,1643369538,"~/van/van"
--'  1  0  ~/van/van
-|4,39,1,0,1643369521,"~/van/van"
--'  1  0  ~/van/van
-|4,39,1,0,1643369521,"~/van/van"
--'  8  0  ~/harish/.git
-|4,39,8,0,1643369379,"~/harish/.git"
--'  8  0  ~/harish/.git
-|4,39,8,0,1643369379,"~/harish/.git"
--'  8  0  ~/harish/.git
-|4,39,8,0,1643369379,"~/harish/.git"
--'  8  0  ~/harish/.git
-|4,39,8,0,1643369379,"~/harish/.git"
--'  8  0  ~/harish/.git
-|4,39,8,0,1643369379,"~/harish/.git"
--'  8  0  ~/harish/.git
-|4,39,8,0,1643369379,"~/harish/.git"
--'  8  0  ~/harish/.git
-|4,39,8,0,1643369379,"~/harish/.git"
--'  8  0  ~/harish/.git
-|4,39,8,0,1643369379,"~/harish/.git"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  4  0  ~/harish/village
-|4,39,4,0,1643369123,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  1  0  ~/harish/village
-|4,39,1,0,1643369094,"~/harish/village"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  3  25  ~/harish/class
-|4,39,3,25,1643369086,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
--'  1  0  ~/harish/class
-|4,39,1,0,1643369064,"~/harish/class"
+-'  1  0  ~/webapps/F1
+|4,39,1,0,1645014524,"~/webapps/F1"
+-'  5  0  ~/index.html
+|4,39,5,0,1644896120,"~/index.html"
+-'  5  0  ~/index.html
+|4,39,5,0,1644896120,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1644896063,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1644896063,"~/index.html"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  80  0  /etc/profile
+|4,39,80,0,1644331676,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644330988,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  8  /etc/profile
+|4,39,75,8,1644305631,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  75  6  /etc/profile
+|4,39,75,6,1644304270,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  1  0  /etc/profile
+|4,39,1,0,1644304242,"/etc/profile"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  2  0  ~/film/f3
+|4,39,2,0,1643810646,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  0  ~/film/f3
+|4,39,1,0,1643810634,"~/film/f3"
+-'  1  27  ~/film/f2
+|4,39,1,27,1643810630,"~/film/f2"
+-'  1  27  ~/film/f2
+|4,39,1,27,1643810630,"~/film/f2"
+-'  1  27  ~/film/f2
+|4,39,1,27,1643810630,"~/film/f2"
 
 # History of marks within files (newest to oldest):
+
+> ~/webapps/F1
+	*	1645014521	0
+	"	1	0
+
+> ~/index.html
+	*	1644896108	0
+	"	5	0
+	^	5	0
+	.	5	0
+	+	1	0
+	+	4	15
+	+	5	0
+
+> /etc/profile
+	*	1644331658	0
+	"	80	0
+	^	80	0
+	.	79	29
+	+	75	25
+	+	76	0
+	+	75	41
+	+	76	14
+	+	75	25
+	+	78	29
+	+	77	27
+	+	79	29
+
+> ~/film/f3
+	*	1643810645	0
+	"	2	0
+	^	2	0
+	.	1	17
+	+	1	17
+
+> ~/film/f2
+	*	1643810629	0
+	"	1	27
+	^	1	28
+	.	1	27
+	+	1	27
+
+> ~/film/f1
+	*	1643810606	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
+
+> ~/vim/etc/profile
+	*	1643809526	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	43
+	+	1	0
+	p	1	0
+
+> ~/git-demo/project/head
+	*	1643684819	0
+	"	1	0
+
+> ~/git-demo/project/idream.txt
+	*	1643684134	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
+
+> ~/git-demo/project/index1.html
+	*	1643683777	0
+	"	2	0
+	^	2	0
+	.	1	25
+	+	1	25
+
+> ~/git-demo/project/index.html
+	*	1643683414	0
+	"	4	0
+	^	4	0
+	.	3	10
+	+	3	10
+
+> ~/master
+	*	1643683147	0
+	"	1	0
+
+> ~/harish/age
+	*	1643683069	0
+	"	5	1
+	^	5	2
+	.	5	1
+	+	5	1
+
+> ~/parle/high
+	*	1643680510	0
+	"	1	21
+	^	1	22
+	.	1	21
+	+	1	21
+
+> ~/parle/gold
+	*	1643680482	0
+	"	1	20
+	^	1	21
+	.	1	21
+	+	1	21
 
 > ~/van/van
 	*	1643369535	0
@@ -272,13 +384,6 @@ $
 	^	3	26
 	.	3	25
 	+	3	25
-
-> ~/harish/age
-	*	1643369055	0
-	"	5	1
-	^	5	2
-	.	5	1
-	+	5	1
 
 > ~/auto/passenger
 	*	1643303849	0
