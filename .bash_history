@@ -1,84 +1,3 @@
-ls -a
-ls -l
-ls
-cd ..
-pwd
-ls
-cd harish
-ls
-cat age
-cat village
-cat class
-cat age class village
-cp age class
-ls
-cat age class
-mv age age'
-ls
-
-ls
-'
-''
-;;;
-ls
-cat age class
-ls
-'
-'
-'
-ls
-ls -l
-chmod u=x age
-ls -l
-chmod u=a age
-chmod A=u+g+o age
-chmod 777 age
-ls -l
-chmod u-rw class
-ls -l
-chmod u+rwx class
-ls -l
-chmod 777 class
-ls -l
-chmod 777 village
-ls -l
-chmod u-rw,g-wx,o-r age class village
-ls -l
-chmod 242 age class village
-ls -l
-chmod 2 age
-ls -l
-chmod 666 age village class
-ls -l
-chmod 444 age village class
-ls -l
-chmod 555 age village class
-chmod 444 age village class
-ls -l
-chmod 777 age class village
-ls -l
-clear
-cd ~
-ls
-ls -l
-chmod u+r,g+r,o+r harish
-ls -l
-chmod 101 mydirw
-chmod 101 mydir2
-ls -l
-chmod 111 mydir2
-ls -l
-chmod 274 mydir2
-ls -l
-chmod u+rwx mydir2
-ls -l
-chmod u-rwx,g-rwx,o-rwx mydir2
-ls -l
-git --version
-yum install git -y
-git --version
-ls
-rm -rf mkdir4
 ls
 rmdir mydir4
 \rm-rf mydir4
@@ -998,3 +917,84 @@ cd f1
 cd F1
 vi F1
 clear
+yum install git -y
+mkdir git-repo
+cd git-repo
+git init
+touch gitfile
+mkdir gitdir
+cd gitdir
+pwd
+touch git1 git2 git3
+git status
+git add
+git add .
+git status
+git commit -m "added 1 gitdir & git1-3 files"
+git config --global user.name "haime"
+git config --global user.email "haime@gmail.com"
+git status
+cd ..
+ls
+git init
+cd ..
+ls
+git init
+git status
+git add .
+git status
+git commit -m "added all"
+ls
+pwd
+git status
+git add .
+git commit -m "empty"
+git commit -a
+git commit -a -m "added files"
+ls
+git ls-files
+rm index.hxml
+git rm index.hxml
+git rm webapps/F1
+git ls-files
+git rm F2
+git ls-files
+vi gitignore
+git add .
+git commit -m "nth"
+git ls-files
+vi .gitignore
+git add .
+git status
+git commit -m"nth"
+git commit -m "nth"
+git ls -files
+git ls -filess
+git ls
+log
+git lo
+git log
+git status
+git add *
+git commit -a
+git -version
+clear
+git --version
+mkdir myphone
+cd myphone
+touch file1 file2
+git init
+git add .
+git status
+git commit -m ""added my phone
+git commit -m "added my phone"
+ls
+git ls -files
+git ls-files
+git remote add origin https://github.com/Gundasaivarma/vivo.com.git
+git remote -v
+git push origin matser 
+cd~
+cd ~
+git push origin master
+poweroff
